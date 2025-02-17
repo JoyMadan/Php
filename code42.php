@@ -13,7 +13,7 @@ echo "<table border='1' cellspacing='0' cellpadding='10'>";
 echo "<tr>
         <th>SR No</th>
         <th>Subject</th>
-        <th>Manshay</th>
+        <th>Joy</th>
         <th>Rahul</th>
         <th>Rajat</th>
       </tr>";
