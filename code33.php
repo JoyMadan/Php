@@ -2,7 +2,7 @@
 
     	function writeMessage()
     	{
-        	echo "Hello! Manshay this side.";
+        	echo "Hello! Joy this side.";
     	}
     
     	writeMessage();
